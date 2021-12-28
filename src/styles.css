@@ -33,7 +33,7 @@ body {
   font-family: inherit;
 }
 .btn:focus {
-  outline: none;
+  outline: 2px dashed lightcyan;
 }
 .btn:active {
   transform: scale(0.98);
