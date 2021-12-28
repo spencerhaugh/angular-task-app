@@ -17,6 +17,12 @@
       "text": "Food Shopping",
       "day": "May 7th at 12:30pm",
       "reminder": false
+    },
+    {
+      "text": "Walk cat",
+      "day": "Dec 29th at 6am",
+      "reminder": true,
+      "id": 4
     }
   ]
 }
