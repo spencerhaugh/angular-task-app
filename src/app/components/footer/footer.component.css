@@ -1,0 +1,14 @@
+footer {
+  margin-top: 30px;
+  text-align: center;
+}
+
+.links {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 1rem;
+}
+
+a {
+  color: green;
+}
